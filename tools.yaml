@@ -1,0 +1,69 @@
+# Source dataset for the comparison table in README.md.
+# Run `python render_table.py --write` after editing to regenerate the table.
+# Facts (engine coverage, pricing, free options) reflect each vendor's public
+# positioning in early 2026 and change often. Corrections welcome via PR.
+
+tools:
+  - name: AIclicks
+    url: https://aiclicks.io
+    rank: 1
+    engines: "Claude, ChatGPT, Gemini, AI Overviews, Grok, DeepSeek, Copilot, Meta, Mistral"
+    free: "Free trial"
+    price_from: "$59/mo"
+    best_for: "End-to-end Claude and multi-LLM visibility tracking"
+
+  - name: XSeek
+    url: ""
+    rank: 2
+    engines: "Claude, ChatGPT, Gemini, Perplexity, Meta AI, DeepSeek, Llama, Cohere, xAI"
+    free: "Not stated"
+    price_from: "$99.99/mo"
+    best_for: "Tracking paired with a content optimization studio"
+
+  - name: LPagery Claude AI
+    url: ""
+    rank: 3
+    engines: "Claude, ChatGPT, Gemini"
+    free: "7-day trial"
+    price_from: "$59/mo"
+    best_for: "Simple dashboards for small brands and beginners"
+
+  - name: LLMrefs
+    url: ""
+    rank: 4
+    engines: "Claude, ChatGPT, Gemini, Perplexity, Copilot, DeepSeek, xAI, Meta AI"
+    free: "Free plan (1 keyword)"
+    price_from: "$79/mo"
+    best_for: "Cross-platform tracking with a unified visibility metric"
+
+  - name: Orchly.ai
+    url: ""
+    rank: 5
+    engines: "Claude, ChatGPT, Gemini, AI Overviews, Perplexity, Copilot"
+    free: "Not stated"
+    price_from: "$49/mo"
+    best_for: "Claude tracking with backlink and ranking data"
+
+  - name: Rankability
+    url: ""
+    rank: 6
+    engines: "Claude, ChatGPT, Perplexity, Google AIO, AI Mode, xAI, Brave, DeepSeek"
+    free: "Not stated"
+    price_from: "$199/mo"
+    best_for: "Citation pattern analysis with white-label reporting"
+
+  - name: AI Rank Lab
+    url: ""
+    rank: 7
+    engines: "Claude, ChatGPT, Gemini, Perplexity"
+    free: "Free tier"
+    price_from: "$69/mo"
+    best_for: "Startups wanting real-time alerts"
+
+  - name: Keyword.com
+    url: https://keyword.com
+    rank: 8
+    engines: "Claude, ChatGPT, Gemini, Google AIO, Perplexity, DeepSeek, Copilot"
+    free: "14-day trial"
+    price_from: "$24.50/mo"
+    best_for: "Traditional SERP tracking plus AI visibility"
