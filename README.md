@@ -1,4 +1,12 @@
-# Best Claude SEO Tracking Tools (2026)
+# Best Claude SEO Tracking Tools
+
+<p align="center">
+  <a href="https://aiclicks.io/">
+    <img src="https://github.com/user-attachments/assets/e738f179-55cb-4fcd-9f07-1873de69088d" alt="best-claude-seo-tracking-tools" />
+  </a>
+</p>
+
+
 
 A maintained, vendor-neutral ranking of the best Claude SEO tracking tools. An AI tracking tool of this kind measures how often your brand shows up in Claude's answers and which sources Claude cites instead of you. Every tool below covers Claude alongside other engines, so this doubles as a practical LLM tracking tool shortlist.
 
